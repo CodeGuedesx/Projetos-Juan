@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+p#skill {
+    font-family: "Arial Black";
+    font-size: 15pt;
+    text-align: center;
+    margin-top: 305px;
+    color: hsl(218, 44%, 22%);
+    font-weight: bolder;
+    padding: 330px 19px 11px 20px;
+
+}
+div#quadroqr {
+    margin: auto auto auto auto;
+    position: center;
+    height: 490px;
+    width: 328px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.23);
+
+}figure#qr img{
+     height: 295px;
+     position: absolute;
+     border-radius: 15px;
+     margin-left: -24px;
+     margin-top: 12px;
+ }
+div.attribution
+{
+    font-size: 12pt;
+    padding-left: 30px;
+    padding-right: 35px;
+    margin-top: -13px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+
+}
+
+div.attribution span{
+    display:none
+}
